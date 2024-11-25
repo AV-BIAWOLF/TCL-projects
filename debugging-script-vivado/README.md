@@ -22,9 +22,9 @@ The script performs the following actions:
 
 This script is useful for debugging projects in Vivado, easing the process of connecting signals and excluding global clock signals. It automates the creation of ILA debug cores and pin connections, allowing developers to focus on analyzing and debugging signals without the need to manually perform routine tasks.
 
-1. To choose block for debugging. ![alt text](debugging-script-vivado/img/pic1.png)
+1. To choose block for debugging. ![alt text](https://github.com/AV-BIAWOLF/TCL-projects/blob/main/debugging-script-vivado/img/pic1.png)
 2. To write command for procedure execution.
-3. To get resulat: ILA debug core and marked signals. ![alt text](debugging-script-vivado/img/pic2.png) ![alt text](debugging-script-vivado/img/pic3.png)
+3. To get resulat: ILA debug core and marked signals. ![alt text](https://github.com/AV-BIAWOLF/TCL-projects/blob/main/debugging-script-vivado/img/pic2.png) ![alt text] (https://github.com/AV-BIAWOLF/TCL-projects/blob/main/debugging-script-vivado/img/pic3.png)
 
 ## Acknowledgements
 
